@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<local:myWorkflow xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:local="clr-namespace:Wxwinter.Test.Statements;assembly=Wxwinter.Test.Statements" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Text</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <local:myWorkflow.Implementation>
+    <StateMachine>
+      <StateMachine.InitialState>
+        <State x:Name="__ReferenceID1" DisplayName="A">
+          <State.Entry>
+            <Sequence>
+              <WriteLine Text="A:Entry" />
+              <local:resultBookmark bookmarkName="wxwinter">
+                <local:resultBookmark.Result>
+                  <OutArgument x:TypeArguments="x:String">
+                    <mca:CSharpReference x:TypeArguments="x:String">submitValue</mca:CSharpReference>
+                  </OutArgument>
+                </local:resultBookmark.Result>
+              </local:resultBookmark>
+            </Sequence>
+          </State.Entry>
+          <State.Exit>
+            <Sequence>
+              <WriteLine Text="A:Exit" />
+            </Sequence>
+          </State.Exit>
+          <State.Transitions>
+            <Transition DisplayName="AE">
+              <Transition.Condition>
+                <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="E"</mca:CSharpValue>
+              </Transition.Condition>
+              <Transition.To>
+                <State x:Name="__ReferenceID0" DisplayName="End" IsFinal="True">
+                  <State.Entry>
+                    <WriteLine Text="End:Entry" />
+                  </State.Entry>
+                </State>
+              </Transition.To>
+            </Transition>
+            <Transition DisplayName="AB">
+              <Transition.Condition>
+                <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="B"</mca:CSharpValue>
+              </Transition.Condition>
+              <Transition.To>
+                <State x:Name="__ReferenceID2" DisplayName="B">
+                  <State.Entry>
+                    <Sequence>
+                      <WriteLine Text="B:Entry" />
+                      <local:resultBookmark bookmarkName="wxwinter">
+                        <local:resultBookmark.Result>
+                          <OutArgument x:TypeArguments="x:String">
+                            <mca:CSharpReference x:TypeArguments="x:String">submitValue</mca:CSharpReference>
+                          </OutArgument>
+                        </local:resultBookmark.Result>
+                      </local:resultBookmark>
+                    </Sequence>
+                  </State.Entry>
+                  <State.Exit>
+                    <Sequence>
+                      <WriteLine Text="B:Exit" />
+                    </Sequence>
+                  </State.Exit>
+                  <State.Transitions>
+                    <Transition DisplayName="BE" To="{x:Reference __ReferenceID0}">
+                      <Transition.Condition>
+                        <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="E"</mca:CSharpValue>
+                      </Transition.Condition>
+                    </Transition>
+                    <Transition DisplayName="BA" To="{x:Reference __ReferenceID1}">
+                      <Transition.Condition>
+                        <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="A"</mca:CSharpValue>
+                      </Transition.Condition>
+                    </Transition>
+                    <Transition DisplayName="BC">
+                      <Transition.Condition>
+                        <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="C"</mca:CSharpValue>
+                      </Transition.Condition>
+                      <Transition.To>
+                        <State x:Name="__ReferenceID3" DisplayName="C">
+                          <State.Entry>
+                            <Sequence>
+                              <WriteLine Text="C:Entry" />
+                              <local:resultBookmark bookmarkName="wxwinter">
+                                <local:resultBookmark.Result>
+                                  <OutArgument x:TypeArguments="x:String">
+                                    <mca:CSharpReference x:TypeArguments="x:String">submitValue</mca:CSharpReference>
+                                  </OutArgument>
+                                </local:resultBookmark.Result>
+                              </local:resultBookmark>
+                            </Sequence>
+                          </State.Entry>
+                          <State.Exit>
+                            <Sequence>
+                              <WriteLine Text="C:Exit" />
+                            </Sequence>
+                          </State.Exit>
+                          <State.Transitions>
+                            <Transition DisplayName="CE" To="{x:Reference __ReferenceID0}">
+                              <Transition.Condition>
+                                <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="E"</mca:CSharpValue>
+                              </Transition.Condition>
+                            </Transition>
+                            <Transition DisplayName="CA" To="{x:Reference __ReferenceID1}">
+                              <Transition.Condition>
+                                <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="A"</mca:CSharpValue>
+                              </Transition.Condition>
+                            </Transition>
+                            <Transition DisplayName="CB" To="{x:Reference __ReferenceID2}">
+                              <Transition.Condition>
+                                <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="B"</mca:CSharpValue>
+                              </Transition.Condition>
+                            </Transition>
+                          </State.Transitions>
+                        </State>
+                      </Transition.To>
+                    </Transition>
+                  </State.Transitions>
+                </State>
+              </Transition.To>
+            </Transition>
+            <Transition DisplayName="AC" To="{x:Reference __ReferenceID3}">
+              <Transition.Condition>
+                <mca:CSharpValue x:TypeArguments="x:Boolean">submitValue=="C"</mca:CSharpValue>
+              </Transition.Condition>
+            </Transition>
+          </State.Transitions>
+        </State>
+      </StateMachine.InitialState>
+      <x:Reference>__ReferenceID1</x:Reference>
+      <x:Reference>__ReferenceID0</x:Reference>
+      <x:Reference>__ReferenceID2</x:Reference>
+      <x:Reference>__ReferenceID3</x:Reference>
+      <StateMachine.Variables>
+        <Variable x:TypeArguments="x:String" Name="submitValue" />
+      </StateMachine.Variables>
+      <sads:DebugSymbol.Symbol>d5ABRDpcMDLnvJbnqItcMjAxNuW5tFwwMeWNj+WQjOW8gOWPkVzliKvkurrnmoTkuIDkupvmupDnoIFcV0Yt5YW25LuW5Y+C6ICD5rqQ56CBXFdGNC41IOeKtuaAgeacuuW3peS9nOa1gVxXeHdpbnRlci5UZXN0LlN0YXRlbWVudHNcbXlXb3JrZmxvdy54YW1sKyADogESAgEBIgeYAQ8CASw6Dz4XAgEoRg+PARcCARVoF4sBHwIBAiQLLRYCATgwCzIWAgE1Nw83XgIBMkMPQ14CATCUAQ+UAV4CAS48EzxfAgEqSBNRHgIBIVQTVh4CAR5bF1tmAgEbYBdgZgIBGWUXZWYCARdqG3MmAgEOdht4JgIBC30ffW4CAQiCAR+CAW4CAQaHAR+HAW4CAQQlDSVXAgE9Jg0sJAIBOTENMVYCATY8UTxcAgErSRVJXwIBJkoVUCwCASJVFVVeAgEfax1rZwIBE2wdcjQCAQ93HXdmAgEMJUslVAIBPiZjJm0CATwpEylkAgE6MUsxUwIBN0lTSVwCASdKa0p1AgElTRtNbAIBI1VTVVsCASBrW2tkAgEUbHNsfQIBEm8jb3QCARB3W3djAgEN</sads:DebugSymbol.Symbol>
+    </StateMachine>
+  </local:myWorkflow.Implementation>
+</local:myWorkflow>

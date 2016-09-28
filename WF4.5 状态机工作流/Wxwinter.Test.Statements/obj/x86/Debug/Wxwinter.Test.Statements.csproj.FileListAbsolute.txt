@@ -1,0 +1,48 @@
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\bin\Debug\Wxwinter.Test.Statements.exe.config
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\myWorkflow.g.xaml
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements_myWorkflow_BeforeInitializeComponentHelper.txt
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\_Wxwinter.Test.Statements.g.cs
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\myWorkflow.g.cs
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements_myWorkflow_BeforeInitializeComponentHelper.cs
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csproj.XamlGeneratedCodeFileListAbsolute.txt
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csproj.XamlGeneratedXamlFileListAbsolute.txt
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\bin\Debug\Wxwinter.Test.Statements.exe
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\bin\Debug\Wxwinter.Test.Statements.pdb
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.pdb
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow.g.cs
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow.g.xaml
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow1.g.cs
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow1.g.xaml
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\_Wxwinter.Test.Statements.g.cs
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.exe
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.testForm.resources
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 11\Projects\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements_myWorkflow_CompiledExpressionRoot.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\bin\Debug\Wxwinter.Test.Statements.exe.config
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.exe
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.pdb
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\bin\Debug\Wxwinter.Test.Statements.exe
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\bin\Debug\Wxwinter.Test.Statements.pdb
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\myWorkflow.g.xaml
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements_myWorkflow_BeforeInitializeComponentHelper.txt
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\_Wxwinter.Test.Statements.g.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\myWorkflow.g.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements_myWorkflow_BeforeInitializeComponentHelper.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csproj.FileListAbsolute.txt
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.dll
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements.testForm.resources
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\Wxwinter.Test.Statements_myWorkflow_CompiledExpressionRoot.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow.g.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow.g.xaml
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow1.g.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\myWorkflow1.g.xaml
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+C:\Users\Administrator\Desktop\Wxwinter.Test.Statements\Wxwinter.Test.Statements\obj\x86\Debug\InProcessTempFiles\_Wxwinter.Test.Statements.g.cs
